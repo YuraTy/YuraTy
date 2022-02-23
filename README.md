@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @YuraTy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Yura
+- 👀 I like listening to music, watching movies, playing basketball and programming)
+- 🌱 I completed the courses at STEP and now I am taking the courses FoxmindEd
+- This repository contains projects that I made.
 Hi, my name is Yuri. I learned java kor, and I want to gain practical skills. I will be happy to help with the project.
-<!---
-YuraTy/YuraTy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
